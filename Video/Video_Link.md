@@ -2,7 +2,7 @@
 
 ## Log File Anomaly Explainer — Live Demo
 
-📺 **Video Link:** [Watch the Demo on Google Drive / YouTube](#)
+📺 **Video Link:** [Watch the Demo on Google Drive / YouTube](https://drive.google.com/drive/folders/1O2iuCyTdRq9pVb9RB1amkmvmaJgj4X2n)
 ---
 
 ### What the demo covers
