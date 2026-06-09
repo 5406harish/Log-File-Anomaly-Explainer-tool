@@ -3,9 +3,6 @@
 ## Log File Anomaly Explainer — Live Demo
 
 📺 **Video Link:** [Watch the Demo on Google Drive / YouTube](#)
-
-> _Replace the `#` above with the actual video link after recording._
-
 ---
 
 ### What the demo covers
