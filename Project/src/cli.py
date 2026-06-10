@@ -292,7 +292,7 @@ def _render_markdown(results: list[dict], out_file: str | None) -> None:
 @click.option(
     "--model",
     "-m",
-    default="gemini-2.0-flash",
+    default="gemini-3.1-flash-lite",
     show_default=True,
     help="Gemini model to use.",
 )
