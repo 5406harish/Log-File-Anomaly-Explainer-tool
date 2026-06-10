@@ -1,6 +1,6 @@
 # Log File Anomaly Explainer (UC ID: PS-02)
 
-> **AI-Powered Log Triage Agent** — A CLI tool that ingests `.log` files,
+> **AI-Powered Log Triage Agent** — A CLI tool that ingests `.log` files, 
 > detects anomalies, and uses Google Gemini to explain root causes with
 > actionable remediation steps.
 
